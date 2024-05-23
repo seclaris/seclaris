@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I'm **Clarisse (she/her)**. I'm currently in the Full Stack Web Development program at the University of Alberta. In my spare time, you'll find me on Discord, playing games, honing my skills on freeCodeCamp, or at the gym.
+I'm **Clarisse (she/her)**. I'm currently in the Full Stack Web Development program at the University of Alberta. In my spare time, you'll find me on Discord, playing games, or at the gym.
 
 **Current Skill Sets** 
 
