@@ -5,7 +5,7 @@ I'm **Clarisse (she/her)**. I'm currently in the Full Stack Web Development prog
 
 **Current Skill Sets** 
 
-[![My Skills](https://skillicons.dev/icons?i=html,git,vscode,ae,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,dotnet,py,react,figma,js,nextjs,nodejs,git,vscode,bootstrap,mysql,sqlite,docker,postgres,postman,ai,ae,pr,ps&perline=4)](https://skillicons.dev)
 
 ### Fun Facts
 - I really wanted to become a video editor or a 3D animator, but I was unable to pursue that path.
