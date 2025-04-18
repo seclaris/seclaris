@@ -25,4 +25,4 @@ I'm **Clarisse (she/her)**. I'm currently in the Full Stack Web Development prog
 
 <a href="https://imgur.com/C12biRM"><img target="blank" src="https://i.imgur.com/C12biRMm.jpg" alt="Luna (Ragdoll Cat) holding on to the window sill"></a>
 
-<p align="right">[back to top](#about-me)</p>
+[back to top](#about-me)
